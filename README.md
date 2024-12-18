@@ -25,11 +25,19 @@ An E-commerce platform for a video game store
 
 ![Screenshot 2024-12-16 at 7 51 21 PM](https://github.com/user-attachments/assets/c58bc6ba-25bc-4bb8-8548-5ea4dd2e5c4b)
 
+## Run our website by following the instructions below:                                                                                                                                                                                                                                1. Ensure that you have Docker Desktop installed.__
+   2. Bring this project into your computer either through using git clone, or downloading and unpacking the .zip file.__
+   
+
+
+
+
 ## Our usage for the website depends on whether you are an administrator or a customer. By being an administrator, you have numerous privileges, for example, being able to view any customer's purchase history, editing the quantity or details of a product, etc. As a customer, you are able to filter by the categories or platforms of whatever game you are looking for, add games to your cart, and view your own purchase history. 
 
 ## If you'd like to see features available as an administrator, please login with the following credentials:
 username: arahan_admin
 password: password12345
+
 
 ## If you'd like to log in as a customer, please register on our website, and enjoy the features our team has implemented!
 
