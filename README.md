@@ -25,10 +25,10 @@ An E-commerce platform for a video game store
 
 ![Screenshot 2024-12-16 at 7 51 21 PM](https://github.com/user-attachments/assets/c58bc6ba-25bc-4bb8-8548-5ea4dd2e5c4b)
 
-## Run our website by following the instructions below:                                                                                                                                                                                                                                1. Ensure that you have Docker Desktop installed.__
-   2. Bring this project into your computer either through using git clone, or downloading and unpacking the .zip file.__
+## Run our website by following the instructions below:                                                                                                                                                                                                                                1. Ensure that you have Docker Desktop installed.                                                                                                                                                                                                                                   2. 
    
 
+## Link to our github repo: https://github.com/peter-tillmann88/PIASGames
 
 
 
